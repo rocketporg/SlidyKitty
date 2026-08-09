@@ -363,3 +363,10 @@ MigrationBackup/
 FodyWeavers.xsd
 /SlidyKitty.Code/pipeline-references/MonoGame.Extended.Content.Pipeline.dll
 /SlidyKitty.Code/pipeline-references/MonoGame.Extended.dll
+SlidyKitty.Android/obj/Debug/net10.0-android36/SlidyKitty.Android.AssemblyInfo.cs
+SlidyKitty.Android/obj/Debug/net10.0-android36/SlidyKitty.Android.AssemblyInfoInputs.cache
+SlidyKitty.Android/obj/Debug/net10.0-android36/SlidyKitty.Android.csproj.AssemblyReference.cache
+SlidyKitty.Code/obj/Debug/net10.0/SlidyKitty.Code.AssemblyInfo.cs
+SlidyKitty.Code/obj/Debug/net10.0/SlidyKitty.Code.AssemblyInfoInputs.cache
+SlidyKitty.Desktop/obj/Debug/net10.0/SlidyKitty.Desktop.AssemblyInfo.cs
+SlidyKitty.Desktop/obj/Debug/net10.0/SlidyKitty.Desktop.AssemblyInfoInputs.cache

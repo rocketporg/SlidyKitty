@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SlidyKitty.Desktop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab5969aeb0b0f615baba29ef515bb125ce4ce83d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SlidyKitty.Desktop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SlidyKitty.Desktop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
