@@ -1,10 +1,5 @@
 # Slidy Kitty
 
-Please note... the code is MIT‑licensed. Game assets are not.
-See LICENSE-ASSETS for details of the license which applies to the game assets.
-
-# Overview
-
 A simple little game influenced by games such as Tiny Wings, written using C# .NET and the Monogame framework.
 
 I decided I'd build this as open source so people could see examples of how a simple game can be written using Monogame 
