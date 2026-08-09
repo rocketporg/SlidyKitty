@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Ben/Code/GitHub/RocketPorg/SlidyKitty/SlidyKitty.Code/Content/Map/Sky.png</File>
+    <File>D:/Ben/Code/GitHub/RocketPorg/SlidyKitty/SlidyKitty.Code/Content/Map/Sun.png</File>
+    <File>D:/Ben/Code/GitHub/RocketPorg/SlidyKitty/SlidyKitty.Code/Content/Characters/kitty-atlas.json</File>
+    <File>D:/Ben/Code/GitHub/RocketPorg/SlidyKitty/SlidyKitty.Code/Content/Characters/Kitty.png</File>
+    <File>D:/Ben/Code/GitHub/RocketPorg/SlidyKitty/SlidyKitty.Code/Content/Splash/Aventius.png</File>
+    <File>D:/Ben/Code/GitHub/RocketPorg/SlidyKitty/SlidyKitty.Code/Content/Map/Ground Outline Shader.fx</File>
+    <File>D:/Ben/Code/GitHub/RocketPorg/SlidyKitty/SlidyKitty.Code/Content/Map/Default Terrain Shader.fx</File>
+    <File>D:/Ben/Code/GitHub/RocketPorg/SlidyKitty/SlidyKitty.Code/Content/Splash/Font.spritefont</File>
+    <File>D:/Ben/Code/GitHub/RocketPorg/SlidyKitty/SlidyKitty.Code/Content/Title/Font.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

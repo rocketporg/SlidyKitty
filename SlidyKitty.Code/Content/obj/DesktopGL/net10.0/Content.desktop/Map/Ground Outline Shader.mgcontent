@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Ben/Code/GitHub/RocketPorg/SlidyKitty/SlidyKitty.Code/Content/Map/Ground Outline Shader.fx</SourceFile>
+  <SourceTime>2026-05-02T20:32:08.449718+01:00</SourceTime>
+  <DestFile>D:/Ben/Code/GitHub/RocketPorg/SlidyKitty/SlidyKitty.Code/Content/bin/DesktopGL/Content.desktop/Map/Ground Outline Shader.xnb</DestFile>
+  <DestTime>2026-08-09T16:46:29.248407+01:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2025-10-20T15:25:32+01:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2025-10-20T15:25:32+01:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

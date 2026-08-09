@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Ben/Code/GitHub/RocketPorg/SlidyKitty/SlidyKitty.Code/Content/Characters/kitty-atlas.json</SourceFile>
+  <SourceTime>2026-05-03T16:22:58.8787808+01:00</SourceTime>
+  <DestFile>D:/Ben/Code/GitHub/RocketPorg/SlidyKitty/SlidyKitty.Code/Content/bin/DesktopGL/Content.desktop/Characters/kitty-atlas.xnb</DestFile>
+  <DestTime>2026-08-09T16:46:29.047652+01:00</DestTime>
+  <Importer>TexturePackerJsonImporter</Importer>
+  <ImporterTime>2026-03-25T18:36:14+00:00</ImporterTime>
+  <Processor>TexturePackerProcessor</Processor>
+  <ProcessorTime>2026-03-25T18:36:14+00:00</ProcessorTime>
+  <Dependencies>
+    <string>Kitty.png</string>
+    <string>D:/Ben/Code/GitHub/RocketPorg/SlidyKitty/SlidyKitty.Code/Content/Characters/Kitty.png</string>
+  </Dependencies>
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
